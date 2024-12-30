@@ -1,0 +1,57 @@
+higher level programming
+
+case sensitive
+
+predefined functions
+
+c----structural lang,procedural lang,functional orintedprogramming
+
+DENNIS RITCHIE
+software--turbo c++,dev c++
+
+save---- .c
+
+#include<stdio.h>
+int main()
+
+{
+printf("hello all");
+return 0;
+}
+
+
+#include<stdio.h>---header file
+
+stdio---standard input output
+
+#--preprocessor directive
+
+printf()----output stmt
+
+scanf()----input stmts
+
+
+assembly lang---compiler---machine lang(0,1's)
+
+variables:
+named memory location
+
+int a=10;
+
+datatypes:memmory allocation
+
+int ---integer or wholenumbers---2or 4 bytes--%d
+
+float---decimal numbers---4or8 bytes---%f---eg:56.56
+
+double----decimal numbers---8 or 16 bytes---%lf
+
+char----alphabets---1byte %c
+
+
+
+c++---oops(object oriented)
+
+java---oops(object oriented)
+
+python---oops(object oriented)

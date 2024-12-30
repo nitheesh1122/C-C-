@@ -1,0 +1,19 @@
+operators:
+
+arithmetic:to do mathematical calculations
+(+,-,*,/---gives quoi,%(modulus)---remainder)
+
+relational:to check two numbers(>,>=,<,<=)
+
+logical:to check two conditions(&&--and,
+||--or,not--!)
+
+conditional or ternary ?:
+
+bitwise (&--bitwise and,|---bitwise or)
+
+assignment(==,+=,-=.....)
+
+
+
+
